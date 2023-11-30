@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gam3a", "gam3a\gam3a.csproj", "{1A1342D6-4EC7-4CEC-9936-74CF05CF8FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1342D6-4EC7-4CEC-9936-74CF05CF8FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1342D6-4EC7-4CEC-9936-74CF05CF8FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1342D6-4EC7-4CEC-9936-74CF05CF8FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1342D6-4EC7-4CEC-9936-74CF05CF8FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F7D0BC6-B833-455E-B4A3-7036A3528E2E}
+	EndGlobalSection
+EndGlobal
